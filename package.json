@@ -1,6 +1,7 @@
 {
   "name": "jabs-portfolio",
   "version": "1.0.0",
+  "homepage": "https://jabs081.github.io/JABS-PORTFOLIO",
   "private": true,
   "scripts": {
     "dev": "vite",
